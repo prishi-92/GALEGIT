@@ -1,0 +1,1 @@
+web: gunicorn gale_test:app --log-file -
